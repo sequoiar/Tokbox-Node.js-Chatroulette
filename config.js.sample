@@ -1,0 +1,4 @@
+module.exports.Credentials = {
+    apikey: '000000',
+    secret: '000000000000000000000000000000000000',
+};
